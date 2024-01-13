@@ -48,4 +48,5 @@ public class Room {
         String BookingCode = RandomStringUtils.random(10);
         booking.setBookingConfirmationCode(BookingCode);
     }
+
 }
